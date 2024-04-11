@@ -84,7 +84,8 @@ For each project, there will be a tutor assigned to this project. Each team with
 <br>
 
 **VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should **carefully prepare your meeting**.
-<br>
+<br>  
+
 
 What am I supposed to do?
 -------------------------

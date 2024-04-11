@@ -83,7 +83,7 @@ Who will help me?
 For each project, there will be a tutor assigned to this project. Each team within a project will have a **weekly meeting** with its tutor on Wednesday between 10 am and 1 pm during **20-30 minutes**.
 <br>
 
-**VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should **carefully prepare your meeting**.
+**VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should **carefully prepare your meeting**.  
 <br>  
 
 
@@ -149,9 +149,9 @@ Documentation
 --------------
 
 Introduction to GitHub  
-> [Intro to GitHub](https://youtu.be/tTwftnbWr6E)
-> [Push / Pull changes in GitHub](https://youtu.be/dz7x5MoZdbA)
-> [Resolve conflicts](https://youtu.be/2P5FM2WTNcQ)
+> [Intro to GitHub](https://youtu.be/tTwftnbWr6E)  
+> [Push / Pull changes in GitHub](https://youtu.be/dz7x5MoZdbA)  
+> [Resolve conflicts](https://youtu.be/2P5FM2WTNcQ)  
 <br>
 
 These are the Python Notebook files with Python intro provided by David Schwarzenbacher  

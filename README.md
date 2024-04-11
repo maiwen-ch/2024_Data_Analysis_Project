@@ -72,26 +72,26 @@ How to …
 
 How do I select my project/team?
 - check the project description on this page (see above)!
-- select your teammates; each sub-project will be worked out by groups of 4 students.
-- once the choice has been made, register your team in a Google Spreadsheet (link will be provided); the choice of sub-project and definition of the teams should be completed by Monday, 22.04.24, 10am (no extension!)
-- create a GitHub account and register your github name in the registration Google Sheet
+- select your teammates; each sub-project will be worked out by groups of **4 students**.
+- once the choice has been made, register your team in a Google Spreadsheet (link will be provided); the choice of sub-project and definition of the teams should be completed by **Monday, 22.04.24, 10 am** (no extension!)
+- **create a GitHub account and register your github name in the registration Google Sheet**
 <br>
 
 Who will help me?
 ----------------
 
-For each project, there will be a tutor assigned to this project. Each team within a project will have a weekly online meeting with his tutor on Wednesday between 10am and 1 pm during 20-30 minutes.
+For each project, there will be a tutor assigned to this project. Each team within a project will have a **weekly meeting** with its tutor on Wednesday between 10 am and 1 pm during **20-30 minutes**.
 <br>
 
-**VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should carefully prepare your meeting. We have provided a template which should help you organize your weekly meeting efficiently!  
+**VERY IMPORTANT**: as the weekly time which the tutor can dedicate to your project is limited, you should **carefully prepare your meeting**.
 <br>
 
 What am I supposed to do?
 -------------------------
 
-- select your project and you teammates and register before Wednesday, 26.04, 10am
-- Project presentation on 15.05.24: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to address in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them.
-- Final presentation on 10.07.24 (15 minutes + 10 minutes discussion / questions)
+- **select your project and you teammates and register before Monday, 22.04, 10 am**
+- **Project presentation on 15.05.24**: prepare a 10 minutes presentation (+10 minutes discussion/questions) based on the indicated literature for each project, listing the relevant questions/topics that you want to address in your project. During this presentation, you should also explain the datasets you will be working with, and how you want to make use of them.
+- **Final presentation on 10.07.24** (15 minutes + 10 minutes discussion / questions)
 <br>
 
 How will I be evaluated?
@@ -112,14 +112,14 @@ Here are the relevant points taken into account during the project proposal pres
 
 Final reports will be submitted (or “committed”) to the Github repository of the group as a .Rmd or .ipynb file and **a final PDF file**.
 
-**Important note**: Science is collaboration! so please make sure to share your insights/knowledge with other groups! You are free to choose whatever way to do so, e.g. Whatsapp groups or Slack groups.
+**Important note**: *Science is collaboration!* so please make sure to share your insights/knowledge with other groups! You are free to choose whatever way to do so, e.g. Whatsapp groups or Slack groups.
 
 > *Practical aspects*  
 > Depending on the projects, you will use either R (Topics 02/03/04/05) or python (Topics 01).
 <br>
 
 > *R-based projects*  
-You will use RStudio, and create a R markdown document.
+You will use [RStudio](https://www.rstudio.com/), and create a [R markdown document](https://rmarkdown.rstudio.com/).
 <br>
 
 - RStudio  
@@ -127,18 +127,18 @@ For those of you who want to work on their laptops, you can install RStudio usin
 <br>
 
 - RMarkdown documents  
-These will consist in a mixture of plain text (explanations about the analysis, comments,…) and code pieces (called chunks). The advantage is that the report will be automatically generated (either as pdf or html document) when compiling the markdown file. All plots will be automatically and dynamically created from the code pieces in the markdown document.
+These will consist in a mixture of plain text (explanations about the analysis, comments,…) and code pieces (called **chunks**). The advantage is that the report will be automatically generated (either as pdf or html document) when compiling the markdown file. All plots will be automatically and dynamically created from the code pieces in the markdown document.
 
-> Have a look at this tutorial or this one to get started with RMarkdown; RMarkdown is very easy to generate with RStudio.
+> Have a look at [this tutorial](https://rmarkdown.rstudio.com/lesson-1.html) or [this one](https://support.rstudio.com/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R) to get started with RMarkdown; RMarkdown is very easy to generate with RStudio.
 <br>
 
 > *Python based projects*  
-Similar to R markdow documents, the Jupyter Notebook offers a way to mix markdown text together with Python code. Installing Jupyter Notebook requires the installation of Python. Just follow the instructions on the previous link.
+Similar to R markdow documents, the [Jupyter Notebook](https://jupyter.org/) offers a way to mix markdown text together with Python code. Installing Jupyter Notebook requires the installation of Python. Just follow the instructions on the previous link.
 <br>
 
 > *GitHub*  
-Git is a system to handle collaborative projects, in which each member of the team is contributing to the project. You can check this website for a simple intro to Git/GitHub.  
-Git can be used either from the command line, or using GitHub Desktop, a GUI manager which makes commiting changes, etc… very easy.  
+Git is a system to handle collaborative projects, in which each member of the team is contributing to the project. You can check [this website](https://guides.github.com/activities/hello-world/) for a simple intro to Git/GitHub.  
+Git can be used either from the command line, or using [GitHub Desktop](https://desktop.github.com/), a GUI manager which makes commiting changes, etc… very easy.  
 <br>
 
 This tool will help you (and us…) track the progress of your project.  
@@ -148,11 +148,10 @@ Documentation
 --------------
 
 Introduction to GitHub  
-> Intro to GitHub
-> Push / Pull changes in GitHub
-> Resolve conflicts
-> Here some slides on GitHub
+> [Intro to GitHub](https://youtu.be/tTwftnbWr6E)
+> [Push / Pull changes in GitHub](https://youtu.be/dz7x5MoZdbA)
+> [Resolve conflicts](https://youtu.be/2P5FM2WTNcQ)
 <br>
 
 These are the Python Notebook files with Python intro provided by David Schwarzenbacher  
-> Python notebooks (D. Schwarzenbacher)
+> [Python notebooks (D. Schwarzenbacher)](https://www.hdsu.org/teaching/downloads/Python_Intro.zip)

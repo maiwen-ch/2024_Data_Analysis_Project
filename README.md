@@ -3,8 +3,8 @@ Data Analysis Project 2024 - overview
 
 Responsible teachers:
 
-Carl Herrmann (carl.herrmann@bioquant.uni-heidelberg.de) - IPMB & BioQuant  
-Maiwen Caudron-Herger (m.caudron@dkfz-heidelberg.de) - Division - RNA Biology & Cancer (B150)
+Carl Herrmann (carl.herrmann@bioquant.uni-heidelberg.de) - [IPMB & BioQuant](http://www.hdsu.org/)  
+Maiwen Caudron-Herger (m.caudron@dkfz-heidelberg.de) - Research group - [RNA-Protein Complexes & Cell Proliferation](https://www.dkfz.de/en/RNA-Protein-Komplexe-Zellproliferation/index.php) (B150)
 <br>
 
 What are the goal?
@@ -21,7 +21,7 @@ After this module, you will have
 
 In a nutshell…
 --------------
-- choose your team and one project before Monday 22.04 (10am) (this Google Sheet)
+- choose your team and one project before Monday 22.04 (10am) [this Google Sheet] **(URL HERE !!!)**
 - prepare and present a 10 min. project proposal on Wednesday 15.05
 - work on your project during the whole term
 - meet your tutor every week
@@ -49,15 +49,15 @@ Most of the time, these 5 sub-projects are very similar to each other but analyz
 
 You can find a description of the 5 topics here:
 
-- Topic 01 : Biomedical Image Analysis (Karl Rohr - Python)
+- Topic 01 : [Biomedical Image Analysis](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_01_Biomedical_Image_Analysis) (Karl Rohr - Python)
 
-- Topic 02: Cancer Hallmark and Metabolic Pathways in Cancer (Carl Herrmann - R)
+- Topic 02: [Cancer Hallmark and Metabolic Pathways in Cancer](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_02_Drug_Cancer_Hallmarks) (Carl Herrmann - R)
 
-- Topic 03 : Proteome-wide Screen for RNA-dependent Proteins (Maiwen Caudron-Herger - R)
+- Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_03_Proteome_Screen) (Maiwen Caudron-Herger - R)
 
-- Topic 04: Protein thermostability  (Dominik Niopek - R/Python)
+- Topic 04: [Protein thermostability](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - R/Python)
 
-- Topic 05: RNA Methylation (Michael Scherer - R)
+- Topic 05: [RNA Methylation](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_05_RNA_Methylation) (Michael Scherer - R)
 <br>
 
 Important information:

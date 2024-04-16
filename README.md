@@ -21,7 +21,7 @@ After this module, you will have
 
 In a nutshell…
 --------------
-- choose your team and one project before Monday 22.04 (10am) [this Google Sheet] **(URL HERE !!!)**
+- choose your team and one project before Monday 22.04 (10am) [this Google Sheet](https://docs.google.com/spreadsheets/d/1G5mbai1CXtiVrlMvS7UuuHrtryB51FTSpnLYSz2Y6vA/edit#gid=0)
 - prepare and present a 10 min. project proposal on Wednesday 15.05
 - work on your project during the whole term
 - meet your tutor every week
@@ -73,7 +73,7 @@ How to …
 How do I select my project/team?
 - check the project description on this page (see above)!
 - select your teammates; each sub-project will be worked out by groups of **4 students**.
-- once the choice has been made, register your team in a Google Spreadsheet (link will be provided); the choice of sub-project and definition of the teams should be completed by **Monday, 22.04.24, 10 am** (no extension!)
+- once the choice has been made, register your team in a Google Spreadsheet (see below); the choice of sub-project and definition of the teams should be completed by **Monday, 22.04.24, 10 am** (no extension!)
 - **create a GitHub account and register your github name in the registration Google Sheet**
 <br>
 

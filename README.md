@@ -21,7 +21,7 @@ After this module, you will have
 
 In a nutshell…
 --------------
-- choose your team and one project before Monday 22.04 (10am) [this Google Sheet](https://docs.google.com/spreadsheets/d/1G5mbai1CXtiVrlMvS7UuuHrtryB51FTSpnLYSz2Y6vA/edit#gid=0)
+- choose your team and one project before Monday 22.04 (10am)
 - prepare and present a 10 min. project proposal on Wednesday 15.05
 - work on your project during the whole term
 - meet your tutor every week

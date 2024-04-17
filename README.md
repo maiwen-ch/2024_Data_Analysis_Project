@@ -55,7 +55,7 @@ You can find a description of the 5 topics here:
 
 - Topic 03 : [Proteome-wide Screen for RNA-dependent Proteins](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_03_Proteome_Screen) (Maiwen Caudron-Herger - R)
 
-- Topic 04: [Protein thermostability](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - R/Python)
+- Topic 04: [Protein thermostability](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - Python)
 
 - Topic 05: [RNA Methylation](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_05_RNA_Methylation) (Michael Scherer - R)
 <br>

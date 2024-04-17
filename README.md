@@ -57,7 +57,7 @@ You can find a description of the 5 topics here:
 
 - Topic 04: [Protein thermostability](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_04_Protein_Thermostability)  (Dominik Niopek - Python)
 
-- Topic 05: [DNA Methylation](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_05_RNA_Methylation) (Michael Scherer - R)
+- Topic 05: [DNA Methylation](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_05_DNA_Methylation.git) (Michael Scherer - R)
 <br>
 
 Important information:

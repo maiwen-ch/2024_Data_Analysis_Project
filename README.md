@@ -50,7 +50,7 @@ Most of the time, these 5 sub-projects are very similar to each other but analyz
 You can find a description of the 5 topics here:
 
 - Topic 01 : [Biomedical Image Analysis](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_01_Biomedical_Image_Analysis) (Karl Rohr & Leonid Kostrykin - Python)
-- Tutorin: Leonie Thomas
+- Tutorin: Leonie Thomas (leonie.thomas@stud.uni-heidelberg.de)
 
 - Topic 02: [Cancer Hallmark and Metabolic Pathways in Cancer](https://github.com/maiwen-ch/2024_Data_Analysis_Topic_02_Drug_Cancer_Hallmarks) (Carl Herrmann - R)
 - Tutorin: Anna von Bachmann (anna.vonbachmann@stud.uni-heidelberg.de)
